@@ -1,12 +1,12 @@
 import React from 'react'
-import { Modal, Form } from 'react-bootstrap'
+import { Modal } from 'react-bootstrap'
 
 // import { Container } from './styles';
 
 function NewContactModal() {
-  function handleSubmit(e) {
-    e.eventDefault()
-  }
+  // function handleSubmit(e) {
+  //   e.eventDefault()
+  // }
 
   return (
     <>
