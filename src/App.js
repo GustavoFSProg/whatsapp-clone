@@ -1,4 +1,3 @@
-import { loadGetInitialProps } from 'next/dist/next-server/lib/utils'
 import React from 'react'
 import Login from './components/login'
 import useLocalStorage from './hooks/useLocalStorage'
